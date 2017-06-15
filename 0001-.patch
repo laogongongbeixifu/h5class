@@ -1,0 +1,20 @@
+From e82cc9c970222e4496e459a51954799114b9d5e5 Mon Sep 17 00:00:00 2001
+From: zjk <zjk965532438@outlook.com>
+Date: Wed, 14 Jun 2017 10:03:23 +0800
+Subject: [PATCH] =?UTF-8?q?=E4=BD=A0=E4=BB=AC=E5=A5=BD=EF=BC=8C=E6=88=91?=
+ =?UTF-8?q?=E6=98=AF=E4=BD=A0=E7=88=B9=EF=BC=81?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+diff --git a/hello.c b/hello.c
+new file mode 100644
+index 0000000..8b13789
+--- /dev/null
++++ b/hello.c
+@@ -0,0 +1 @@
++
+-- 
+2.7.4
+
