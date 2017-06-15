@@ -10,7 +10,7 @@ _周家康真**帅**_
 
 [游戏](http://www.4399.com)
 
-![haha](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497502426446&di=5884c7b15286e611a29d1a87e2490300&imgtype=0&src=http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FOTAwWDE2MDA%3D%2Fz%2FnR4AAOSw44BYDSiG%2F%2524_57.JPG%3Fset_id%3D8800005007)
+![haha](https://imgsa.baidu.com/forum/w%3D580/sign=303c1f82e41190ef01fb92d7fe1b9df7/3cf790ef76c6a7ef7b126749fefaaf51f2de6694.jpg)
 
 >father
 >>son
